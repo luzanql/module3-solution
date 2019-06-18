@@ -15,7 +15,10 @@ h1{
     border-radius: 0;
     border: 0;
   }
-  
+ /* button.navbar-toggle.collapsed.visible-xs{
+    background-color: lightgrey;
+  }*/
+
   div.contenido {
     position: relative;
     width: 100%;
